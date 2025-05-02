@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:  rgb(1,0,1);
+}
+
+.parent {
+    background-color: red;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.parent2 {
+    background-color: khaki;
+}
+
+.parent3 {
+    background-color: skyblue;
+}
+
+.parent4 {
+    background-color: palegreen;
+}
+
+.parent5 {
+    background-color: darksalmon;
+}
+
+.parent6 {
+    background-color: firebrick;
+}
